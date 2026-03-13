@@ -1,7 +1,7 @@
 {
-  "name": "xrpl-challenge-1-trustlines",
+  "name": "xrpl-challenge-4-interop",
   "version": "1.0.0",
-  "description": "Template for XRPL Trustlines Challenge",
+  "description": "Template for XRPL Cross-Chain Interoperability Challenge",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
